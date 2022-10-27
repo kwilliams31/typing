@@ -9,6 +9,7 @@ Correct words	48
 Wrong words	7
 
 round 2
+
 58 WPM
 (words per minute)
 Keystrokes	(292 | 36) 328
@@ -17,6 +18,7 @@ Correct words	53
 Wrong words	6
 
 round 3
+
 67 WPM
 (words per minute)
 Top 25 %
